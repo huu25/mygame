@@ -1,0 +1,97 @@
+# depslib dependency file v1.0
+1683345367 source:d:\code\huu24game\baseobject.cpp
+	"BaseObject.h"
+
+1683345339 d:\code\huu24game\baseobject.h
+	"CommonFunc.h"
+
+1683345521 d:\code\huu24game\commonfunc.h
+	<cstdlib>
+	<ctime>
+	<vector>
+	<algorithm>
+	<fstream>
+	<iostream>
+	<string>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<SDL_ttf.h>
+
+1683345401 source:d:\code\huu24game\bomb.cpp
+	"Bomb.h"
+
+1683345427 d:\code\huu24game\bomb.h
+	"BaseObject.h"
+	"CommonFunc.h"
+
+1683345452 source:d:\code\huu24game\boss.cpp
+	"Boss.h"
+
+1683345477 d:\code\huu24game\boss.h
+	"CommonFunc.h"
+	"BaseObject.h"
+
+1683345501 source:d:\code\huu24game\commonfunc.cpp
+	"CommonFunc.h"
+
+1683345549 source:d:\code\huu24game\game.cpp
+	"Game.h"
+
+1683345569 d:\code\huu24game\game.h
+	"BaseObject.h"
+	"CommonFunc.h"
+	"game_map.h"
+	"Player.h"
+	"Skeleton.h"
+	"Bomb.h"
+	"Boss.h"
+	"Item.h"
+	"Menu.h"
+	"Timer.h"
+
+1683345882 d:\code\huu24game\game_map.h
+	"CommonFunc.h"
+	"BaseObject.h"
+
+1683345739 d:\code\huu24game\player.h
+	"CommonFunc.h"
+	"BaseObject.h"
+
+1683345799 d:\code\huu24game\skeleton.h
+	"CommonFunc.h"
+	"BaseObject.h"
+
+1683345649 d:\code\huu24game\item.h
+	"CommonFunc.h"
+	"BaseObject.h"
+
+1683345693 d:\code\huu24game\menu.h
+	"BaseObject.h"
+	"CommonFunc.h"
+
+1683345841 d:\code\huu24game\timer.h
+	"BaseObject.h"
+	"CommonFunc.h"
+
+1683345862 source:d:\code\huu24game\game_map.cpp
+	"game_map.h"
+
+1683345625 source:d:\code\huu24game\item.cpp
+	"Item.h"
+
+1683345901 source:d:\code\huu24game\main.cpp
+	"Game.h"
+
+1683345671 source:d:\code\huu24game\menu.cpp
+	"Menu.h"
+
+1683345719 source:d:\code\huu24game\player.cpp
+	"Player.h"
+
+1683345779 source:d:\code\huu24game\skeleton.cpp
+	"Skeleton.h"
+
+1683345821 source:d:\code\huu24game\timer.cpp
+	"timer.h"
+
